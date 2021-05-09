@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 scrapy = "*"
+psycopg2 = "*"
+pandas = "*"
 
 [dev-packages]
 
